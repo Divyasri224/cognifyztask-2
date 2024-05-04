@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+#pink{
+    background-color: pink;
+    font-weight:600px;
+}
+#red{
+    background-color: red;
+    font-weight:600px;
+}
+#purple{
+    background-color: purple;
+    font-weight:600px;
+}
+button{
+    border-radius: 5px;
+    width:100px;
+    margin:5px;
+    height:40px;
+}
